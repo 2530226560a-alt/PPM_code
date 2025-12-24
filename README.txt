@@ -1,3 +1,6 @@
+Source Code：https://github.com/xjtlu-cvlab/PPM
+Dataurl：https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/
+
 The PPM algorithm is an algorithm for multi-camera pedestrian detection. The code and demonstration videos of the PPM algorithm, as well as the PETS2009 ground truth data created by us and used in the following article, are provided here. The PPM algorithm is presented in the article: Rui Qiu, Ming Xu, Yuyao Yan, Jeremy S. Smith, Yuchen Ling,  PPM: A Boolean Optimizer for Data Association in Multi-View Pedestrian Detection, Pattern Recognition, Article NUmber 110807.
 
 This program is a x64 program and developed by using Microsoft Visual Studio 2017 (v141) and opencv 2.4.13.
