@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-PPM_code",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "任务-PPM_code",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
